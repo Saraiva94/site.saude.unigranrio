@@ -79,4 +79,11 @@ footer > p {
     text-align: center;
 }
 
-    
+
+footer > p > a {
+    padding: 10px;
+    color: black;
+    font-weight: bolder;
+    text-shadow: 1.3px 1.3px 0px rgba(0, 0, 0, 0.473);
+    text-decoration: underline;
+}    
