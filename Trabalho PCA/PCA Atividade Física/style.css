@@ -87,3 +87,11 @@ footer > p > a {
     text-shadow: 1.3px 1.3px 0px rgba(0, 0, 0, 0.473);
     text-decoration: underline;
 }    
+
+footer a:hover {
+    background-color: rgba(0, 0, 0, 0.288);
+    color: #3a7db4;
+    padding:5px 10px;
+    border-radius: 6px;
+    transition-duration: 0.5s;
+}
