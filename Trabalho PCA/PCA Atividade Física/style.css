@@ -70,4 +70,13 @@ img{
     width: 680px;
 }
 
+footer > p {
+    padding: 10px;
+    font-family: 'Roboto Slab';
+    color: black;
+    font-weight: bolder;
+    text-shadow: 1.3px 1.3px 0px rgba(0, 0, 0, 0.473);
+    text-align: center;
+}
+
     
